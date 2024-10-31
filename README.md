@@ -11,6 +11,5 @@ Contribute to the project's growth. Open issues, submit pull requests, and colla
 
 # Future Roadmap 🛤️
 🤝 Support multiple customers renting the same car simultaneously. ⏰ Implement date-based pricing adjustments. 🎨 Develop a graphical user interface (GUI) for enhanced user experience.
-
 Feel the thrill of renting and returning cars while mastering OOP concepts. Dive into the Car Rental System and drive your learning forward! 🚗💨
 
